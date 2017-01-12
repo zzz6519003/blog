@@ -1,7 +1,7 @@
 Blog
 ====
 
-(I had a traditional blog there http://zzz6519003.github.io , but I prefer here.)
+(I had a traditional blog there http://zzz6519003.github.io , http://medium.com/@Snowmanzzz.)
 
 See the [issues](https://github.com/zzz6519003/blog/issues?state=open)
 
