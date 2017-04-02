@@ -1,7 +1,7 @@
 Blog
 ====
 
-**(I had a traditional blog there http://medium.com/@Snowmanzzz, http://zzz6519003.github.io . Make sure to check out that)**
+**(I had a traditional blog there http://medium.com/@Snowmanzzz, http://zzz6519003.github.io . Make sure to check it out)**
 
 See the [issues](https://github.com/zzz6519003/blog/issues?state=open)
 
@@ -9,5 +9,7 @@ My blog is under [`blog` label](https://github.com/zzz6519003/blog/labels/blog)
 
 You can get my feed from your github timeline by one-button-click to watch this project.
 
-touch
 
+Glossary:
+
+NB: Null issue body
