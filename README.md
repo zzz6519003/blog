@@ -12,4 +12,4 @@ You can get my feed from your github timeline by one-button-click to watch this 
 
 Glossary:
 
-NB: Null issue body
+Empty: Null issue body
