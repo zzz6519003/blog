@@ -9,7 +9,10 @@ My blog is under [`blog` label](https://github.com/zzz6519003/blog/labels/blog)
 
 You can get my feed from your github timeline by one-button-click to watch this project.
 
+### Friend Link
 
-Glossary:
+[iOS Battle King Casa](https://casatwy.com/communication_patterns.html)
+
+### Glossary
 
 Empty: Null issue body
