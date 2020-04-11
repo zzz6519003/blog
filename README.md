@@ -1,13 +1,17 @@
-Blog
+Blog List
 ====
 
-**(I had a traditional blog there http://medium.com/@Snowmanzzz, http://zzz6519003.github.io .)**
+See the [issues](https://github.com/zzz6519003/blog/issues?state=open) under [`blog` label](https://github.com/zzz6519003/blog/labels/blog)
 
-See the [issues](https://github.com/zzz6519003/blog/issues?state=open)
 
-My blog is under [`blog` label](https://github.com/zzz6519003/blog/labels/blog)
+https://www.jianshu.com/u/600a4fda2bf0
 
-You can get my feed from your github timeline by one-button-click to watch this project.
+(deprecated)http://medium.com/@Snowmanzzz
+
+(deprecated)http://zzz6519003.github.io
+
+
+
 
 ### Friend Link
 
