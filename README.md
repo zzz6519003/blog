@@ -6,6 +6,8 @@ See the [issues](https://github.com/zzz6519003/blog/issues?state=open) under [`b
 
 https://www.jianshu.com/u/600a4fda2bf0
 
+https://www.zhihu.com/people/snowmanzzz
+
 (deprecated)http://medium.com/@Snowmanzzz
 
 (deprecated)http://zzz6519003.github.io
