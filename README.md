@@ -1,3 +1,10 @@
+treasure hunter, polyglot developer, (tennis) player
+
+OMW to become a Pokémon master
+
+[about.me/zzz6519003](https://t.co/Eqrh7q5Mne)
+
+
 Blog List
 ====
 
