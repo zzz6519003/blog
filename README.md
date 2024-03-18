@@ -4,6 +4,8 @@ OMW to become a Pokémon master
 
 [about.me/zzz6519003](https://t.co/Eqrh7q5Mne)
 
+CV 简历: https://github.com/zzz6519003/blog/issues/72
+
 
 Blog List
 ====
